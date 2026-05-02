@@ -8,11 +8,11 @@ from services.student_service import (
 
 while True:
     print("\n====== Student Management System ======\n")
-    print("1. View students")
-    print("2. Add students")
-    print("3. Update students")
-    print("4. Delete students")
-    print("5. Search students")
+    print("1. View students:")
+    print("2. Add students:")
+    print("3. Update students:")
+    print("4. Delete students:")
+    print("5. Search students:")
     print("6. Exit")
 
     choice = input("Enter your choice: ") 
